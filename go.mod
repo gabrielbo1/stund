@@ -1,6 +1,7 @@
 module github.com/gabrielbo1/stund
 
 require (
+	github.com/gabrielbo1/stund v0.0.0-20200804113119-d564c474ed3d
 	github.com/pkg/errors v0.8.1
 	github.com/sirupsen/logrus v1.4.1
 	gortc.io/stun/v2 v2.0.0-alpha
