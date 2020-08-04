@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/gortc/stund/config"
+	"github.com/gabrielbo1/stund/config"
 	"log"
 	"net"
 	"net/http"
