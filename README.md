@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/gortc/stun.svg)](https://travis-ci.org/gortc/stund)
+[![Build Status](https://travis-ci.org/gabrielbo1/stund.svg?branch=master)](https://travis-ci.org/gabrielbo1/stund)
 
 # stund
 
